@@ -1,5 +1,6 @@
 # Tareas del ramo Mineria de Datos (IIC2433)
 
+Fecha: Segundo semestre, 2023. 
 Este repositorio contiene las tareas realizadas en el marco del ramo **Mineria de Datos** (IIC2433).
 
 Cada tarea incluye su informe, código fuente y los resultados obtenidos, organizados en su respectivo directorio.
